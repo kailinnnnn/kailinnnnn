@@ -1,16 +1,49 @@
 ### Hi there 👋
 
-<!--
-**kailinnnnn/kailinnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/kailinyang-6ab02423b" text-decoration="none">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kailinnnnn0408@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+##### About me✨
 
-Here are some ideas to get you started:
+##### Hi, I'm Murphy.
+##### I'm a Taiwanese Front-End engineer with a keen interest in web development and UI/UX.
+##### Currently working on development tasks at AppWorks School.
+##### Feel free to check out my projects 🔥👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+##### Stack
+
+###### ⚡ Web dev
+
+<div>
+<img src="https://skillicons.dev/icons?i=react" width="35" height="35">
+<img src="https://skillicons.dev/icons?i=tailwind" width="35" height="35">
+<img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35">
+<img src="https://skillicons.dev/icons?i=express" width="35" height="35">
+<img src="https://skillicons.dev/icons?i=mongodb" width="35" height="35">
+<img src="https://skillicons.dev/icons?i=firebase" width="35" height="35">
+</div>
+
+###### ⚡ Languages
+
+<div>
+<img src="https://skillicons.dev/icons?i=html" width="35" height="35">
+<img src="https://skillicons.dev/icons?i=css" width="35" height="35">
+<img src="https://skillicons.dev/icons?i=js" width="35" height="35">
+<img src="https://skillicons.dev/icons?i=ts" width="35" height="35">
+</div>
+
+###### ⚡ UI Design
+
+<div>
+<img src="https://skillicons.dev/icons?i=figma" width="35" height="35">
+<img src="https://skillicons.dev/icons?i=xd" width="35" height="35">
+</div>
+
+
