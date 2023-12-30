@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-##### About me✨
+#### About me✨
 
 ##### Hi, I'm Murphy.
 ##### I'm a Taiwanese Front-End engineer with a keen interest in web development and UI/UX.
@@ -17,7 +17,7 @@
 
 ---
 
-##### Stack
+#### Stack
 
 ###### ⚡ Web dev
 
