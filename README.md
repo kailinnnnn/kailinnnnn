@@ -18,17 +18,15 @@
 ---
 
 <div style="display:flex">
+
 <div style="margin-right:30">
-<h6>⚡ Languages</h6>
+<h6>⚡ Web dev</h6>
 <img src="https://skillicons.dev/icons?i=react" width="35" height="35">
 <img src="https://skillicons.dev/icons?i=tailwind" width="35" height="35">
 <img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35">
 <img src="https://skillicons.dev/icons?i=express" width="35" height="35">
 <img src="https://skillicons.dev/icons?i=mongodb" width="35" height="35">
 <img src="https://skillicons.dev/icons?i=firebase" width="35" height="35">
-</div>
-<div style="margin-right:30">
-<h6>⚡ Web dev</h6>
 <img src="https://skillicons.dev/icons?i=html" width="35" height="35">
 <img src="https://skillicons.dev/icons?i=css" width="35" height="35">
 <img src="https://skillicons.dev/icons?i=js" width="35" height="35">
@@ -36,7 +34,7 @@
 </div>
 
 <div>
-<h6>⚡ Web dev</h6>
+<h6>⚡ Web Design</h6>
 <img src="https://skillicons.dev/icons?i=figma" width="35" height="35">
 <img src="https://skillicons.dev/icons?i=xd" width="35" height="35">
 </div>
